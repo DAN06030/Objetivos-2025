@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meus objetivos do ano</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section class="conteudo-principal">
+        <h2 class="titulo-principal">Meus objetivos do ano de 2025</h2>
+        
+            <div class="abas-textos">
+                <div class="aba-conteudo ativo">
+                    <h3 class="aba-conteudo-titulo-principal">Estudar pra passar de ano</h3>
+                    <h4 class="aba-conteudo-titulo-secundario">Principalmente essas materias:</h4>
+                    <div class="contador">
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="dias0"></p>
+                            <p class="contador-digito-texto">Matemática II, que no caso é programação</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="horas0"></p>
+                            <p class="contador-digito-texto">Matemática normal</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="min0"></p>
+                            <p class="contador-digito-texto">Português</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="seg0"></p>
+                            <p class="contador-digito-texto">História</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="aba-conteudo">
+                    <h3 class="aba-conteudo-titulo-principal">Ver filmes</h3>
+                    <h4 class="aba-conteudo-titulo-secundario">O ultimo eu vou ver só porque é ruim </h4>
+                    <div class="contador">
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="dias1"></p>
+                            <p class="contador-digito-texto">Os filmes de demon slayer</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="horas1"></p>
+                            <p class="contador-digito-texto">Live action do como treinar seu dragão</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="min1"></p>
+                            <p class="contador-digito-texto">O espanta tubarões, denovo</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="seg1"></p>
+                            <p class="contador-digito-texto">Branca de neve</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="aba-conteudo">
+                    <h3 class="aba-conteudo-titulo-principal">Viajar</h3>
+                    <h4 class="aba-conteudo-titulo-secundario">Se fosse possível</h4>
+                    <div class="contador">
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="dias2"></p>
+                            <p class="contador-digito-texto">Suíça</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="horas2"></p>
+                            <p class="contador-digito-texto">Japão</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="min2"></p>
+                            <p class="contador-digito-texto">China</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="seg2"></p>
+                            <p class="contador-digito-texto">Curitiba, o único que é mais realista</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="aba-conteudo">
+                    <h3 class="aba-conteudo-titulo-principal">Praticar atividades físicas</h3>
+                    <h4 class="aba-conteudo-titulo-secundario">tem que ficar forte mano</h4>
+                    <div class="contador">
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="dias3"></p>
+                            <p class="contador-digito-texto">Calistenia</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="horas3"></p>
+                            <p class="contador-digito-texto">Pedalar de bike</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="min3"></p>
+                            <p class="contador-digito-texto">Correr</p>
+                        </div>
+                        <div class="contador-digito">
+                            <p class="contador-digito-numero" id="seg3"></p>
+                            <p class="contador-digito-texto">Natação, mas ainda to vendo essa possibilidade</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="main.js"></script>
+</body>
+
+</html>
